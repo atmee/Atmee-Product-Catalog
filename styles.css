@@ -5,8 +5,8 @@ body {
 
 header {
     text-align: center;
-    background-color: #333;
-    color: #fff;
+    background-color: #f4f4f4;
+    color: #ffffff;
     padding: 10px;
 }
 
@@ -25,7 +25,7 @@ h1 {
     text-decoration: none;
     margin: 0 10px;
     padding: 5px 10px;
-    font-size: 20px;
+    font-size: 23px;
 }
 
 .navbar a:hover {
